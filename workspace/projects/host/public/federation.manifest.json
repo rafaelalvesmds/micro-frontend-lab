@@ -1,0 +1,6 @@
+{
+	"ecobit": "http://localhost:4201/remoteEntry.json",
+	"nexum": "http://localhost:4202/remoteEntry.json",
+	"redflux": "http://localhost:4203/remoteEntry.json",
+	"stratos": "http://localhost:4204/remoteEntry.json"
+}
